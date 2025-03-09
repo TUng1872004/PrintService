@@ -1,0 +1,13 @@
+{
+    "name": "Printing-Service",
+    "version": "1.0.0",
+    "lockfileVersion": 3,
+    "requires": true,
+    "author": "",
+    "description": "",
+    "keywords": [],
+    "license": "ISC",
+    "main": "server.js",
+    "packages": {}
+  }
+  
