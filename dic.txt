@@ -1,0 +1,14 @@
+UI
+|--Login
+|    |----Login_BE
+|    |        |-----LoginUser.js
+|    |----login.html
+|    |----loginStyle.css
+|--SPSO
+|   |--dashboard.html
+|   |--SPSO_BE
+|          |--..js
+|--User
+|   |--dashboard.html
+|   |--User_BE
+|          |--..js
