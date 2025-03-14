@@ -1,8 +1,6 @@
 # Printing-Service
 
-This is just experimental application. Access via this link: 
-
-[https://printservice.onrender.com](https://printservice.onrender.com)
+This is just experimental application. Access via this link: [https://printservice.onrender.com](https://printservice.onrender.com)
 
 Username: student1
 
