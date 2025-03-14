@@ -1,6 +1,12 @@
 # Printing-Service
 
-This is just experimental application on localhost. If you interesting in fully running it for your purpose, you may contact me via gmail: 
+This is just experimental application. Access via this link: 
+```
+ https://printservice.onrender.com
+```
+Username: student1
+Pass: student123
+If you are interested in similar app, please contact me via gmail: 
 ```
 vuhoangtung187@gmail.com
 ```
